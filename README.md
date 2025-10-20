@@ -1,6 +1,6 @@
 # Gioi-thieu-ban-than
 Repository giới thiệu về bản thân tôi
-Xin chào! Mình là **Thảo NHi**, hiện đang là sinh viên **khoa Tin học**. Mình rất thích lập trình và khám phá các công nghệ mới.
+Xin chào! Mình là **Thảo Nhi**, hiện đang là sinh viên **khoa Tin học**. Mình rất thích lập trình và khám phá các công nghệ mới.
 ## Sở thích
 - Đọc sách
 - Nghe nhạc
